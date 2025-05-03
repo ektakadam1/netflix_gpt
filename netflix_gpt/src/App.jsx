@@ -1,14 +1,13 @@
 import React from 'react';
 import { useState } from 'react';
+import Body from './components/Body.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
     <>
-      <h1 class=" flex justify-center text-3xl font-bold underline">
-      Hello world!
-  </h1>
+    <Body/>
     </>
   )
 }
