@@ -1,1 +1,1 @@
-Netflix-GPT - netflip clone with twist of AI/ML
+Netflix-GPT - netflix clone with twist of AI/ML
